@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    password: patre
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    username: kapil
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
