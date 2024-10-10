@@ -56,10 +56,4 @@ public class OrderDetailsEntity {
         this.orderPlacedDate = orderPlacedDate;
     }
 
-    public void getMSg() {
-        System.out.println("Hello India");;
-    }
-
-
-
 }
