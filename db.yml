@@ -1,2 +1,3 @@
 uname: kapil 
 pwd: 123abc@
+driver: oracle:jdbc
